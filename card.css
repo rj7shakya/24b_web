@@ -1,0 +1,21 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.c1 {
+  width: 100vw;
+  height: 100vh;
+  background-color: blue;
+  border-radius: 30px;
+  border-bottom-right-radius: 0px;
+}
+
+.profile {
+  margin-top: calc(50% - 100px);
+  margin-left: calc(50% - 100px);
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid white;
+  padding: 5px;
+}

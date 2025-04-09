@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightblue;
+  padding: 10px 40px;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 8px;
+}
+.left,
+.right {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.btn {
+  background-color: #e87c52;
+  padding: 8px 15px;
+  color: white;
+  border-radius: 5px;
+}
+
+.search {
+  background-color: #f4f7fc;
+  color: #bcbfc4;
+  padding: 8px 15px;
+  border-radius: 5px;
+}

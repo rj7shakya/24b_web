@@ -34,3 +34,47 @@
   padding: 8px 15px;
   border-radius: 5px;
 }
+
+.hero {
+  display: flex;
+}
+
+.hero__model {
+  width: 50vw;
+  padding: 50px;
+}
+
+.hero__content {
+  width: 50vw;
+  padding: 80px;
+}
+
+.t1 {
+  color: #e87c52;
+  padding: 5px;
+  border: 0px solid #e87c52;
+  border-left-width: 2px;
+}
+
+.t2 {
+  font-size: 48px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.btn_container {
+  display: flex;
+  margin-top: 16px;
+  align-items: center;
+}
+
+.preview {
+  margin-left: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.play {
+  width: 22px;
+  margin-right: 10px;
+}
